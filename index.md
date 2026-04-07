@@ -17,23 +17,23 @@
 
 
 ### Code
-'''
-git branch new-branch
+```
+git branch new-branch  
 git checkout new-branch
-'''
+```
 
-[CSE Website](https://cse.ucsd.edu/)
-[GitHub](https://github.com/)
-[YouTube](https://youtube.com/)
-[LeetCode](https://leetcode.com/)
-[HackerRank](https://www.hackerrank.com/)
+[CSE Website](https://cse.ucsd.edu/)  
+[GitHub](https://github.com/)  
+[YouTube](https://youtube.com/)  
+[LeetCode](https://leetcode.com/)  
+[HackerRank](https://www.hackerrank.com/)  
 
-[This is a Link to the Pictures Header](###Pictures)
-[This is a Link to the Quote](###Quote)
-[This is a Link to the Code](###Code)
+[This is a Link to the Pictures Header](###Pictures)  
+[This is a Link to the Quote](###Quote)  
+[This is a Link to the Code](###Code)  
 
-[Relative Link to Image of Geisel Library](Pictures/IMG_0119.jpeg)
-[Relative Link to Image of Sunset](Pictures/IMG_0155.jpeg)
+[Relative Link to Image of Geisel Library](Pictures/IMG_0119.jpeg)  
+[Relative Link to Image of Sunset](Pictures/IMG_0155.jpeg)  
 
 ## Curry Rice Recipe
 ### Ingredients
