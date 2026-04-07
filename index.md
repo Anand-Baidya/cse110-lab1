@@ -18,8 +18,16 @@
 
 ## Code
 ```
-git branch new-branch  
-git checkout new-branch
+public class Fibonacci {
+    public static void fibRecur(int n) {
+        if (n == 0) {
+            return 0;
+        } else if (n == 1) {
+            return 1;
+        } 
+        return fibRecur(n - 1) + fibRecur(n - 2);
+    }
+}
 ```
 
 [CSE Website](https://cse.ucsd.edu/)  
@@ -54,6 +62,6 @@ git checkout new-branch
 6. Serve the curry with cooked rice.
 
 ## To-Do
-[] Pay Internet bill  
-[x] Submit Final Draft of English Paper  
-[] Take Biscut to the Vet for annual checkup
+[] Pay internet bill  
+[x] Submit final draft of English paper  
+[] Take Biscut to the vet for annual checkup
