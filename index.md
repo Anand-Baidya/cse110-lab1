@@ -28,9 +28,9 @@ git checkout new-branch
 [LeetCode](https://leetcode.com/)  
 [HackerRank](https://www.hackerrank.com/)  
 
-[This is a Link to the Pictures Header](###Pictures)  
-[This is a Link to the Quote](###Quote)  
-[This is a Link to the Code](###Code)  
+[This is a Link to the Pictures Header](##Pictures)  
+[This is a Link to the Quote](##Quote)  
+[This is a Link to the Code](###ode)  
 
 [Relative Link to Image of Geisel Library](Pictures/IMG_0119.jpeg)  
 [Relative Link to Image of Sunset](Pictures/IMG_0155.jpeg)  
