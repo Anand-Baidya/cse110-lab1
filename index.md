@@ -23,9 +23,9 @@ git checkout new-branch
 ```
 
 [CSE Website](https://cse.ucsd.edu/)  
-[GitHub](https://github.com/)
-[Apple](https://apple.com/)
-[Google](https://google.com/)  
+[GitHub](https://github.com/)  
+[Apple](https://apple.com/)  
+[Google](https://google.com/)   
 [YouTube](https://youtube.com/)  
 [LeetCode](https://leetcode.com/)  
 [HackerRank](https://hackerrank.com/)  
