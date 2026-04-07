@@ -1,8 +1,8 @@
-# CSE 110
-## Software Engineering
-### Spring 2026
+# CSE 110: Software Engineering
+## Spring 2026
+### Lab 1: VSCode, Markdown, and Git
 
-### Pictures
+## Pictures
 **Fallen Star at JSOE**
 ![Photo of a rainbow over Fallen Star](Pictures/IMG_0034.jpeg)
 
@@ -12,11 +12,11 @@
 <ins>Sunset on a Trail at Torry Pines</ins>
 ![Photo from a hike at Torry Pines Gliderport](Pictures/IMG_0084.jpeg)
 
-### Quote
+## Quote
 > This is an example of a quote in Markdown
 
 
-### Code
+## Code
 ```
 git branch new-branch  
 git checkout new-branch
@@ -51,7 +51,7 @@ git checkout new-branch
 5. Break apart Japanese curry roux blocks and add them to the pot. Stir until the blocks are fully dissolved.
 6. Serve the curry with cooked rice.
 
-## To-Do List:
-[] Pay Internet bill
-[x] Submit Final Draft of English Paper
+## To-Do
+[] Pay Internet bill  
+[x] Submit Final Draft of English Paper  
 [] Take Biscut to the Vet for annual checkup
