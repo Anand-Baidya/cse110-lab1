@@ -62,6 +62,6 @@ public class Fibonacci {
 6. Serve the curry with cooked rice.
 
 ## To-Do
-- [] Pay internet bill  
+- [ ] Pay internet bill  
 - [x] Submit final draft of English paper  
-- [] Take Biscut to the vet for annual checkup
+- [ ] Take Biscut to the vet for annual checkup
