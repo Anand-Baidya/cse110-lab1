@@ -23,14 +23,16 @@ git checkout new-branch
 ```
 
 [CSE Website](https://cse.ucsd.edu/)  
-[GitHub](https://github.com/)  
+[GitHub](https://github.com/)
+[Apple](https://apple.com/)
+[Google](https://google.com/)  
 [YouTube](https://youtube.com/)  
 [LeetCode](https://leetcode.com/)  
-[HackerRank](https://www.hackerrank.com/)  
+[HackerRank](https://hackerrank.com/)  
 
-[This is a Link to the Pictures Header](##Pictures)  
-[This is a Link to the Quote](##Quote)  
-[This is a Link to the Code](##Code)  
+[This is a Link to the Pictures Header](#pictures)  
+[This is a Link to the Quote](#quote)  
+[This is a Link to the Code](#code)  
 
 [Relative Link to Image of Geisel Library](Pictures/IMG_0119.jpeg)  
 [Relative Link to Image of Sunset](Pictures/IMG_0155.jpeg)  
