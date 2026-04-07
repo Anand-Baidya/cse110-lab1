@@ -52,7 +52,7 @@ public class Fibonacci {
 - 2 medium-sized carrots
 - 1 lb boneless chicken thighs
 - 1 tbsp cooking oil
-- Japanese curry roux
+- Japanese curry roux  
 ### Instructions
 1. Peel the carrots and potatoes. Chop the carrots, chicken, onions, and potatoes into bite-sized pieces or however preffered. 
 2. Place 1 tbsp of cooking oil in a pot over medium heat. Sauté the unions until they turn translucent, typically for 3 minutes. Then, place the chicken into the pot and mix for 4-5 minutes.
